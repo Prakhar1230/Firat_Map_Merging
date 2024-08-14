@@ -1,0 +1,4 @@
+<launch>
+    <!-- Launch keyframes node -->
+    <node name="map_merge" pkg="frame" type="merge_online.py"/>
+</launch>

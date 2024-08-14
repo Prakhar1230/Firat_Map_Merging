@@ -1,0 +1,6 @@
+numpy
+open3d
+scikit-learn
+rospkg
+matplotlib
+PyYAML
