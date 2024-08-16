@@ -7,7 +7,7 @@
 
 import numpy as np
 import open3d as o3d
-import time, rospy, yaml
+import time, yaml
 from typing import List
 import rospkg, pygicp
 from sklearn.neighbors import KDTree
